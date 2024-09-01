@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming in C++ 
 - 🌱 I’m currently learning Data Structures and Algorithms and Web Development
 - 💞️ I’m looking to collaborate on any Website Development project
-- 🌱 Worked on an awesome project. Check it out here: https://github.com/anji1809/ABC_TEAM-NITW-MYNTRA
 
 
 <!---
